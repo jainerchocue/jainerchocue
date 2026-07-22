@@ -1,4 +1,4 @@
-# ¡Hola mundo! Soy Jainer Yohany Chocue Viluche 👋
+# ¡Hola mundo! Soy Jainer Yohany Chocue Viluche 
 
 ¡Bienvenido a mi perfil! Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria Comfacauca (Unicomfacauca)** en Popayán, Colombia 🇨🇴. 
 
