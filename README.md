@@ -35,6 +35,5 @@ Me apasiona transformar ideas creativas en código y automatizaciones reales. He
 Si deseas colaborar en proyectos de IA, aportar a la comunidad o charlar sobre tecnología, puedes encontrarme en:
 - **LinkedIn:** [jainer-johany-chocue-viluche-710b54267](https://linkedin.com)
 - **TikTok (La Voz Tech):** [@lavoztech](https://tiktok.com)
-- **Devpost Profile:** [jainerchocue](https://devpost.com)
 
 *"La mejor forma de aprender es compartiendo el conocimiento."*
