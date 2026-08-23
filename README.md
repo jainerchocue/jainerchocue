@@ -56,11 +56,25 @@ Soy el creador y administrador de **La Voz Tech** (`@lavoztech`), un espacio en 
 
 <br>
 
-**Inteligencia Artificial avanzada:** Prompt Engineering · AI Agents · Modelos de Lenguaje (LLMs) · OpenAI API
+<div align="center">
 
-**Conceptos clave:** Lógica de programación · Estructuras de datos · Arquitectura de software (MVC) · Automatización de procesos
+<img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
 
-**En aprendizaje activo:** Análisis y visualización de datos · Metodologías DevOps
+<br><br>
+
+<img src="https://img.shields.io/badge/L%C3%B3gica_de_Programaci%C3%B3n-334155?style=for-the-badge" alt="Lógica de Programación" />
+<img src="https://img.shields.io/badge/Estructuras_de_Datos-334155?style=for-the-badge" alt="Estructuras de Datos" />
+<img src="https://img.shields.io/badge/MVC-334155?style=for-the-badge" alt="Arquitectura MVC" />
+<img src="https://img.shields.io/badge/Automatizaci%C3%B3n-334155?style=for-the-badge" alt="Automatización de Procesos" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/An%C3%A1lisis_de_Datos-60A5FA?style=for-the-badge" alt="Análisis de Datos" />
+<img src="https://img.shields.io/badge/DevOps-60A5FA?style=for-the-badge" alt="DevOps" />
+
+</div>
 
 <br>
 
