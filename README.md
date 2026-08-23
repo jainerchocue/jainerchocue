@@ -40,38 +40,53 @@ Soy el creador y administrador de **La Voz Tech** (`@lavoztech`), un espacio en 
 
 ## Tecnologías y competencias
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><b>Python</b>
+</td>
+<td>Lenguaje principal para desarrollo backend, scripts de automatización y análisis de datos.</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br><b>MySQL</b>
+</td>
+<td>Diseño y consulta de bases de datos relacionales para aplicaciones y proyectos académicos.</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br><b>GitHub</b>
+</td>
+<td>Control de versiones y publicación de proyectos, laboratorios y automatizaciones.</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI API" /><br><b>OpenAI API</b>
+</td>
+<td>Integración de modelos de lenguaje en proyectos propios, como Helio Architect.</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" /><br><b>pandas</b>
+</td>
+<td>Limpieza, manipulación y análisis de datos en Python.</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /><br><b>Matplotlib</b>
+</td>
+<td>Visualización de datos mediante gráficos y reportes.</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-<br>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-
-</div>
-
-<br>
+**También trabajo con estos conceptos y metodologías** (no tienen logo propio, por eso van solo como etiquetas):
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
 <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/L%C3%B3gica_de_Programaci%C3%B3n-334155?style=for-the-badge" alt="Lógica de Programación" />
-<img src="https://img.shields.io/badge/Estructuras_de_Datos-334155?style=for-the-badge" alt="Estructuras de Datos" />
 <img src="https://img.shields.io/badge/MVC-334155?style=for-the-badge" alt="Arquitectura MVC" />
-<img src="https://img.shields.io/badge/Automatizaci%C3%B3n-334155?style=for-the-badge" alt="Automatización de Procesos" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/An%C3%A1lisis_de_Datos-60A5FA?style=for-the-badge" alt="Análisis de Datos" />
 <img src="https://img.shields.io/badge/DevOps-60A5FA?style=for-the-badge" alt="DevOps" />
 
 </div>
@@ -90,7 +105,7 @@ Te invito a explorar mis [repositorios](https://github.com/jainerchocue?tab=repo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jainerchocue&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" alt="Estadísticas de GitHub" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=jainerchocue&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333&cache_seconds=86400" alt="Estadísticas de GitHub" height="165" />
 
 <br><br>
 
