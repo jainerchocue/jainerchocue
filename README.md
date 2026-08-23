@@ -24,36 +24,22 @@
 
 Soy **Jainer Yohany Chocue Viluche**, estudiante de **9.º semestre de Ingeniería de Sistemas** en la **Corporación Universitaria Comfacauca (Unicomfacauca)**, en Popayán, Colombia.
 
-Mi enfoque está orientado al desarrollo de software, Python, la automatización mediante Inteligencia Artificial y la exploración de nuevas herramientas para el desarrollo tecnológico.
+Mi enfoque está orientado al **desarrollo de software, Python, Inteligencia Artificial y automatización**. Me interesa especialmente explorar cómo las nuevas herramientas de IA están transformando la manera en que desarrollamos software y cómo pueden utilizarse para resolver problemas reales.
 
-Me interesa especialmente comprender cómo la Inteligencia Artificial está transformando la forma de desarrollar software y cómo puede utilizarse de manera práctica para resolver problemas reales.
-
-Combino mi formación académica con proyectos personales, experimentación tecnológica y aprendizaje autodidacta. Una parte importante de este proceso consiste en **aprender, construir y compartir** lo aprendido con otras personas.
-
-<br>
-
-## Formación
-
-**Ingeniería de Sistemas — 9.º semestre**  
-**Corporación Universitaria Comfacauca (Unicomfacauca)**  
-Popayán, Colombia
-
-Mi formación me ha permitido trabajar con diferentes áreas del desarrollo de software y complementar los conocimientos académicos mediante proyectos personales, laboratorios, experimentación y aprendizaje independiente.
+Combino mi formación académica con proyectos personales, experimentación tecnológica y aprendizaje autodidacta. Mi forma de aprender se basa en **aprender, construir y compartir** lo aprendido con otras personas.
 
 <br>
 
 ## Comunidad y presencia digital — La Voz Tech
 
-Soy el creador y administrador de **La Voz Tech** (`@lavoztech`), un espacio en TikTok dedicado a la divulgación tecnológica y al aprendizaje de programación.
+Soy el creador de **La Voz Tech** (`@lavoztech`), un espacio de divulgación tecnológica en TikTok enfocado principalmente en:
 
-El contenido está enfocado principalmente en:
+- Fundamentos y aprendizaje de Python.
+- Noticias y novedades relacionadas con Inteligencia Artificial.
+- Conceptos de programación y desarrollo de software.
+- Recursos y explicaciones accesibles para personas que están aprendiendo.
 
-- Divulgación de tips tecnológicos y noticias relacionadas con el sector IT.
-- Fundamentos y conceptos de Python.
-- Explicaciones accesibles de programación y desarrollo de software.
-- Compartir recursos y conocimientos que puedan ayudar a otras personas a aprender.
-
-La idea es contribuir a una comunidad donde el conocimiento pueda compartirse de manera abierta y accesible.
+El objetivo es contribuir a una comunidad donde el conocimiento pueda **compartirse de manera abierta y accesible**.
 
 <br>
 
@@ -64,7 +50,7 @@ La idea es contribuir a una comunidad donde el conocimiento pueda compartirse de
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><b>Python</b>
 </td>
-<td>Lenguaje principal para desarrollo de software, automatización, aprendizaje y experimentación con Inteligencia Artificial.</td>
+<td>Lenguaje principal para desarrollo de software, automatización y experimentación con Inteligencia Artificial.</td>
 </tr>
 
 <tr>
@@ -79,13 +65,6 @@ La idea es contribuir a una comunidad donde el conocimiento pueda compartirse de
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br><b>GitHub</b>
 </td>
 <td>Control de versiones, publicación de proyectos, documentación y colaboración mediante código abierto.</td>
-</tr>
-
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI API" /><br><b>OpenAI API</b>
-</td>
-<td>Integración y experimentación con modelos de lenguaje para desarrollar aplicaciones y automatizaciones basadas en Inteligencia Artificial.</td>
 </tr>
 
 <tr>
@@ -110,14 +89,17 @@ La idea es contribuir a una comunidad donde el conocimiento pueda compartirse de
 </tr>
 </table>
 
-**También trabajo con estos conceptos y tecnologías:**
+<br>
+
+**También trabajo con estos conceptos y áreas:**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge" alt="AI Agents" />
 <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
 <img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=for-the-badge" alt="AI Automation" />
+<img src="https://img.shields.io/badge/OpenAI%20API-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
 <img src="https://img.shields.io/badge/MVC-334155?style=for-the-badge" alt="Arquitectura MVC" />
 <img src="https://img.shields.io/badge/DevOps-60A5FA?style=for-the-badge" alt="DevOps" />
 
@@ -125,13 +107,13 @@ La idea es contribuir a una comunidad donde el conocimiento pueda compartirse de
 
 <br>
 
-## Ecosistema de Inteligencia Artificial
+## Inteligencia Artificial
 
 He explorado diferentes modelos y herramientas de Inteligencia Artificial para comprender sus capacidades, limitaciones y aplicaciones prácticas en el desarrollo de software.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-2563EB?style=for-the-badge" alt="OpenAI" />
+<img src="https://img.shields.io/badge/OpenAI-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge" alt="DeepSeek" />
 <img src="https://img.shields.io/badge/Kimi-2563EB?style=for-the-badge" alt="Kimi" />
 <img src="https://img.shields.io/badge/Z.ai-2563EB?style=for-the-badge" alt="Z.ai" />
@@ -143,22 +125,28 @@ He explorado diferentes modelos y herramientas de Inteligencia Artificial para c
 </div>
 
 <p align="center">
-Mi objetivo no es únicamente utilizar diferentes modelos, sino aprender a evaluar sus capacidades y encontrar aplicaciones prácticas para el desarrollo y la automatización.
+Exploro diferentes modelos para entender sus fortalezas, limitaciones y posibles aplicaciones en desarrollo, automatización y experimentación.
 </p>
+
+### Modelos abiertos y experimentación
+
+También he trabajado en la preparación y experimentación con **modelos de código abierto orientados a fine-tuning**, explorando procesos relacionados con adaptación de modelos, preparación de datos y evaluación de resultados.
+
+Esta experiencia forma parte de mi interés por comprender no solo cómo utilizar modelos de IA existentes, sino también **cómo pueden adaptarse para tareas específicas**.
 
 <br>
 
 ## Proyectos y participaciones
 
-Me interesa transformar ideas en proyectos reales y experimentar con nuevas formas de utilizar la tecnología.
+Me interesa transformar ideas en proyectos reales y utilizar la tecnología como una herramienta para experimentar, aprender y construir soluciones.
 
 ### aprendiendo_python
 
 Proyecto educativo de **código abierto** creado para aprender y compartir conocimientos fundamentales de Python.
 
-El repositorio reúne ejercicios, conceptos y material de aprendizaje que puede ser utilizado por otras personas que estén comenzando a programar o quieran reforzar sus fundamentos.
+El repositorio reúne ejercicios, conceptos y material de aprendizaje que puede ser utilizado por personas que están comenzando a programar o que desean reforzar sus fundamentos.
 
-La intención es que sea un espacio abierto donde otras personas puedan **aprender, practicar, consultar el código y continuar construyendo sobre lo aprendido**.
+La intención es mantener un espacio abierto donde otras personas puedan **aprender, practicar, consultar el código y continuar construyendo sobre lo aprendido**.
 
 <a href="https://github.com/jainerchocue/aprendiendo_python">Explorar repositorio</a>
 
@@ -168,23 +156,19 @@ La intención es que sea un espacio abierto donde otras personas puedan **aprend
 
 Proyecto experimental desarrollado durante la **OpenAI Build Week**, organizada a través de Devpost.
 
-Helio Architect explora la integración de agentes de Inteligencia Artificial con **Blender**, buscando facilitar determinadas tareas relacionadas con el diseño arquitectónico mediante interacción en lenguaje natural.
+Helio Architect explora la integración de agentes de Inteligencia Artificial con **Blender** para asistir en procesos de diseño arquitectónico mediante interacción en lenguaje natural.
 
 El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, por lo que todavía presenta limitaciones y aspectos en proceso de mejora.
-
-> Proyecto desarrollado como parte de una experiencia de experimentación y competición durante OpenAI Build Week.
 
 <br>
 
 ### Proyectos privados
 
-También participo en proyectos relacionados con desarrollo y producción que actualmente permanecen privados.
-
-Por motivos de confidencialidad, no publico detalles sobre estos proyectos.
+También he participado en proyectos de desarrollo y producción que actualmente permanecen privados por motivos de **confidencialidad**.
 
 <br>
 
-Puedes explorar mis <a href="https://github.com/jainerchocue?tab=repositories">repositorios públicos</a> para conocer mis proyectos, laboratorios de estudio y desarrollos open-source.
+Puedes explorar mis <a href="https://github.com/jainerchocue?tab=repositories">repositorios públicos</a> para conocer mis proyectos educativos, laboratorios de estudio y desarrollos open-source.
 
 <br>
 
@@ -204,7 +188,7 @@ Mi enfoque se basa en:
 
 Aprender nuevas tecnologías, ponerlas en práctica mediante proyectos y compartir parte de ese conocimiento para que otras personas también puedan avanzar.
 
-La evolución de la Inteligencia Artificial está cambiando rápidamente la forma en que trabajamos y desarrollamos software. Por eso considero fundamental mantener una actitud de **adaptación, aprendizaje continuo y experimentación responsable**.
+La evolución de la Inteligencia Artificial está transformando rápidamente la forma en que trabajamos y desarrollamos software. Por eso considero fundamental mantener una actitud de **adaptación, aprendizaje continuo y experimentación responsable**.
 
 <br>
 
@@ -214,7 +198,7 @@ La evolución de la Inteligencia Artificial está cambiando rápidamente la form
 
 <img src="https://github-readme-stats.vercel.app/api?username=jainerchocue&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Estadísticas de GitHub" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainerchocue&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Lenguajes más utilizados" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainerchocue&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=2563EB&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Lenguajes más utilizados" height="165" />
 
 <br><br>
 
@@ -226,13 +210,13 @@ La evolución de la Inteligencia Artificial está cambiando rápidamente la form
 
 ## Conectemos
 
-Si deseas colaborar en proyectos de software, Inteligencia Artificial, automatización o divulgación tecnológica, puedes encontrarme en:
+Si deseas colaborar en proyectos de **software, Inteligencia Artificial, automatización o divulgación tecnológica**, puedes encontrarme en:
 
 - **LinkedIn:** <a href="https://www.linkedin.com/in/jainer-johany-chocue-viluche-710b54267">Jainer Yohany Chocue Viluche</a>
 - **TikTok (La Voz Tech):** <a href="https://www.tiktok.com/@lavoztech">@lavoztech</a>
 - **GitHub:** <a href="https://github.com/jainerchocue">jainerchocue</a>
 
-También estoy interesado en conocer nuevos proyectos, oportunidades y personas con las que pueda **aprender, colaborar y construir soluciones tecnológicas**.
+Estoy interesado en conocer nuevos proyectos, oportunidades y personas con las que pueda **aprender, colaborar y construir soluciones tecnológicas**.
 
 <br>
 
