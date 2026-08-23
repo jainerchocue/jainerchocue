@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=210&section=header&text=Jainer%20Yohany%20Chocue%20Viluche&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Systems%20Engineering%20%7C%20Python%20%7C%20AI%20Automation&descAlignY=58&descSize=18" alt="Jainer Yohany Chocue Viluche" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%7C+Inteligencia+Artificial+%7C+Automatizaci%C3%B3n;Explorando+nuevas+formas+de+desarrollar+software;Creador+de+%40lavoztech" alt="Especialidades animadas" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%7C+Inteligencia+Artificial+%7C+Automatizaci%C3%B3n;Explorando+nuevas+formas+de+desarrollar+software;Creador+de+%40lavoztech" alt="Presentación animada" />
 
 <br><br>
 
@@ -39,31 +41,27 @@
 
 Soy <b>Jainer Yohany Chocue Viluche</b>, estudiante de <b>9.º semestre de Ingeniería de Sistemas</b> en la <b>Corporación Universitaria Comfacauca (Unicomfacauca)</b>, en Popayán, Colombia.
 
+<br><br>
+
 Mi enfoque está orientado al <b>desarrollo de software, Python, Inteligencia Artificial y automatización</b>.
-
-Me interesa especialmente comprender cómo la Inteligencia Artificial está transformando la forma de desarrollar software y cómo puede utilizarse de manera práctica para resolver problemas reales.
-
-Combino mi formación académica con proyectos personales, experimentación tecnológica y aprendizaje autodidacta.
-
-Una parte importante de este proceso consiste en:
 
 <br><br>
 
-<div align="center">
+Me interesa especialmente comprender cómo la Inteligencia Artificial está transformando la forma de desarrollar software y cómo puede utilizarse de manera práctica para resolver problemas reales.
 
-<img src="https://img.shields.io/badge/APRENDER-2563EB?style=for-the-badge" alt="Aprender" />
+<br><br>
 
-<img src="https://img.shields.io/badge/CONSTRUIR-3B82F6?style=for-the-badge" alt="Construir" />
+Combino mi formación académica con proyectos personales, experimentación tecnológica y aprendizaje autodidacta.
 
-<img src="https://img.shields.io/badge/COMPARTIR-60A5FA?style=for-the-badge" alt="Compartir" />
+<br><br>
 
-</div>
+Una parte importante de este proceso consiste en <b>aprender, construir y compartir</b>.
 
 </td>
 
 <td width="32%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=190&text=9.%C2%BA%20SEMESTRE&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Noveno semestre" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=190&text=9.%C2%BA%20SEMESTRE&fontSize=27&fontColor=ffffff&animation=fadeIn" alt="9.º semestre" />
 
 <br><br>
 
@@ -88,66 +86,6 @@ Popayán · Colombia
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=FORMACI%C3%93N%20Y%20ENFOQUE&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Formación y enfoque" />
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="58" height="58" alt="Python" />
-
-<br><br>
-
-<b>Python</b>
-
-<br><br>
-
-Desarrollo de software, automatización, aprendizaje y experimentación.
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="58" height="58" alt="OpenAI" />
-
-<br><br>
-
-<b>Inteligencia Artificial</b>
-
-<br><br>
-
-Uso práctico de modelos y herramientas de IA para desarrollar y experimentar.
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="58" height="58" alt="GitHub" />
-
-<br><br>
-
-<b>Open Source</b>
-
-<br><br>
-
-Publicación, documentación y aprendizaje mediante código abierto.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=LA%20VOZ%20TECH&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="La Voz Tech" />
 
 </div>
@@ -159,21 +97,19 @@ Publicación, documentación y aprendizaje mediante código abierto.
 
 <td width="30%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tiktok.svg" width="70" height="70" alt="TikTok" />
+<img src="https://img.shields.io/badge/TikTok-@lavoztech-2563EB?style=for-the-badge&logo=tiktok&logoColor=white" alt="La Voz Tech" />
 
 <br><br>
 
-<b>@lavoztech</b>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=260&lines=Python;Tecnolog%C3%ADa;Inteligencia+Artificial" alt="Temas de La Voz Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=280&lines=Python;Tecnolog%C3%ADa;Inteligencia+Artificial;Programaci%C3%B3n" alt="Temas de La Voz Tech" />
 
 </td>
 
 <td width="70%" valign="middle">
 
 <b>La Voz Tech</b> es mi espacio de divulgación tecnológica en TikTok.
+
+<br><br>
 
 El contenido está enfocado principalmente en:
 
@@ -199,102 +135,79 @@ La idea es contribuir a una comunidad donde el conocimiento pueda <b>compartirse
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=TECNOLOG%C3%8DAS%20Y%20COMPETENCIAS&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Tecnologías y competencias" />
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,github,docker,vercel&perline=5" alt="Python, MySQL, GitHub, Docker y Vercel" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
 </div>
 
 <br>
 
 <table width="100%">
-
-<tr>
-
-<td colspan="3" align="center">
-
-<b>DESARROLLO Y SOFTWARE</b>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" alt="Python" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="48" alt="MySQL" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" alt="GitHub" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg" width="48" alt="Docker" />
-
-<br><br>
-
-<b>Python</b> · <b>MySQL</b> · <b>GitHub</b> · <b>Docker</b>
-
-</td>
-
-</tr>
-
 <tr>
 
 <td width="33%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" width="48" alt="Vercel" />
+<b>PYTHON</b>
 
 <br><br>
 
-<b>Vercel</b>
+<img src="https://skillicons.dev/icons?i=python" width="70" alt="Python" />
 
 <br><br>
 
-Despliegue de aplicaciones y proyectos web.
+Desarrollo de software, automatización y experimentación con Inteligencia Artificial.
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/render.svg" width="48" alt="Render" />
+<b>BACKEND Y DATOS</b>
 
 <br><br>
 
-<b>Render</b>
+<img src="https://skillicons.dev/icons?i=mysql" width="70" alt="MySQL" />
 
 <br><br>
 
-Despliegue y ejecución de aplicaciones y servicios.
+Bases de datos relacionales y desarrollo de aplicaciones.
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" alt="GitHub" />
+<b>DESPLIEGUE</b>
 
 <br><br>
 
-<b>GitHub</b>
+<img src="https://skillicons.dev/icons?i=docker,vercel" width="140" alt="Docker y Vercel" />
 
 <br><br>
 
-Control de versiones, colaboración y código abierto.
+Contenedores y despliegue de aplicaciones y servicios.
 
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
 <div align="center">
 
-<b>INTELIGENCIA ARTIFICIAL Y AUTOMATIZACIÓN</b>
+<img src="https://img.shields.io/badge/Python-Desarrollo%20y%20Automatizaci%C3%B3n-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-<br><br>
+<img src="https://img.shields.io/badge/GitHub-Control%20de%20Versiones-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge" alt="AI Agents" />
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
-<img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=for-the-badge" alt="AI Automation" />
+<img src="https://img.shields.io/badge/Docker-Contenedores-2563EB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
-<br>
+<img src="https://img.shields.io/badge/Vercel-Deployment-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
-<img src="https://img.shields.io/badge/OpenAI%20API-2563EB?style=for-the-badge" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/OpenCode-334155?style=for-the-badge" alt="OpenCode" />
-<img src="https://img.shields.io/badge/Fine--Tuning-60A5FA?style=for-the-badge" alt="Fine-Tuning" />
+<img src="https://img.shields.io/badge/Render-Deployment-2563EB?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 
 </div>
 
@@ -304,11 +217,25 @@ Control de versiones, colaboración y código abierto.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=INTELIGENCIA%20ARTIFICIAL&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Inteligencia Artificial" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=INTELIGENCIA%20ARTIFICIAL%20Y%20AUTOMATIZACI%C3%93N&fontSize=23&fontColor=ffffff&animation=fadeIn" alt="Inteligencia Artificial y Automatización" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Explorar+%7C+Comparar+%7C+Experimentar+%7C+Aprender" alt="Explorar comparar experimentar aprender" />
+<img src="https://img.shields.io/badge/OpenAI%20API-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
+
+<img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge" alt="AI Agents" />
+
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=for-the-badge" alt="AI Automation" />
+
+<img src="https://img.shields.io/badge/OpenCode-334155?style=for-the-badge" alt="OpenCode" />
+
+<img src="https://img.shields.io/badge/Fine--Tuning-60A5FA?style=for-the-badge" alt="Fine-Tuning" />
 
 </div>
 
@@ -317,25 +244,41 @@ Control de versiones, colaboración y código abierto.
 <table width="100%">
 <tr>
 
-<td width="65%" valign="middle">
+<td width="50%" valign="middle">
 
-He explorado diferentes modelos y herramientas de Inteligencia Artificial para comprender sus <b>capacidades, limitaciones y aplicaciones prácticas</b> en el desarrollo de software.
+<h3>Mi enfoque con IA</h3>
 
-Mi objetivo no es únicamente utilizar modelos, sino aprender a evaluar sus capacidades y encontrar aplicaciones prácticas para el desarrollo y la automatización.
+No busco únicamente utilizar modelos de Inteligencia Artificial.
 
-La IA se ha convertido en una parte importante de mi proceso de aprendizaje y experimentación tecnológica.
+<br><br>
+
+Me interesa comprender sus capacidades, limitaciones y posibilidades para encontrar aplicaciones prácticas en:
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Desarrollo-2563EB?style=flat-square" alt="Desarrollo" />
+
+<img src="https://img.shields.io/badge/Automatizaci%C3%B3n-2563EB?style=flat-square" alt="Automatización" />
+
+<img src="https://img.shields.io/badge/Agentes-2563EB?style=flat-square" alt="Agentes" />
+
+<img src="https://img.shields.io/badge/Experimentaci%C3%B3n-2563EB?style=flat-square" alt="Experimentación" />
 
 </td>
 
-<td width="35%" align="center">
+<td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="72" alt="OpenAI" />
+<img src="https://img.shields.io/badge/OPENAI-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=400&lines=Explorar;Comparar;Experimentar;Aprender" alt="Proceso de experimentación" />
 
 <br><br>
 
 <b>AI-assisted development</b>
 
-<br><br>
+<br>
 
 Experimentación · Desarrollo · Automatización
 
@@ -346,65 +289,31 @@ Experimentación · Desarrollo · Automatización
 
 <br>
 
+---
+
 <div align="center">
 
-<h3>Modelos y ecosistemas explorados</h3>
+<h2>Modelos y ecosistemas explorados</h2>
 
 <br>
 
-<table width="100%">
-<tr>
+<img src="https://img.shields.io/badge/OpenAI-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="42" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-2563EB?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+
+<img src="https://img.shields.io/badge/Claude-334155?style=for-the-badge" alt="Claude" />
+
+<img src="https://img.shields.io/badge/Qwen-2563EB?style=for-the-badge" alt="Qwen" />
+
 <br><br>
-<b>OpenAI</b>
-</td>
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/google.svg" width="42" alt="Google" />
-<br><br>
-<b>Gemini</b>
-</td>
+<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge" alt="DeepSeek" />
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" width="42" alt="Anthropic" />
-<br><br>
-<b>Claude</b>
-</td>
+<img src="https://img.shields.io/badge/Kimi-2563EB?style=for-the-badge" alt="Kimi" />
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/qwen.svg" width="42" alt="Qwen" />
-<br><br>
-<b>Qwen</b>
-</td>
+<img src="https://img.shields.io/badge/Gemma-2563EB?style=for-the-badge" alt="Gemma" />
 
-</tr>
-
-<tr>
-
-<td align="center">
-<br>
-<b>DeepSeek</b>
-</td>
-
-<td align="center">
-<br>
-<b>Kimi</b>
-</td>
-
-<td align="center">
-<br>
-<b>Gemma</b>
-</td>
-
-<td align="center">
-<br>
-<b>Z.ai</b>
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Z.ai-334155?style=for-the-badge" alt="Z.ai" />
 
 </div>
 
@@ -415,9 +324,9 @@ Experimentación · Desarrollo · Automatización
 <table width="100%">
 <tr>
 
-<td width="32%" align="center">
+<td width="34%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=180&text=OPEN%20MODELS&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Open Models" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=170&text=OPEN%20MODELS&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Open Models" />
 
 <br><br>
 
@@ -425,21 +334,19 @@ Experimentación · Desarrollo · Automatización
 
 </td>
 
-<td width="68%" valign="middle">
+<td width="66%" valign="middle">
 
 <h2>Experimentación con modelos abiertos</h2>
 
 También he participado en procesos de experimentación con <b>modelos de código abierto</b>, trabajando junto con herramientas de Inteligencia Artificial en la preparación de un modelo orientado a posteriores procesos de <b>fine-tuning</b>.
 
-Esta experiencia me ha permitido acercarme a conceptos relacionados con:
-
 <br><br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Preparaci%C3%B3n%20de%20datos-2563EB?style=for-the-badge" alt="Preparación de datos" />
-
 <img src="https://img.shields.io/badge/Modelos%20abiertos-2563EB?style=for-the-badge" alt="Modelos abiertos" />
+
+<img src="https://img.shields.io/badge/Preparaci%C3%B3n%20de%20datos-2563EB?style=for-the-badge" alt="Preparación de datos" />
 
 <img src="https://img.shields.io/badge/Fine--Tuning-60A5FA?style=for-the-badge" alt="Fine-Tuning" />
 
@@ -456,7 +363,7 @@ Esta experiencia me ha permitido acercarme a conceptos relacionados con:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=PROYECTOS%20Y%20EXPERIMENTACI%C3%93N&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Proyectos y experimentación" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=PROYECTOS&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Proyectos" />
 
 </div>
 
@@ -467,7 +374,7 @@ Esta experiencia me ha permitido acercarme a conceptos relacionados con:
 
 <td width="25%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="72" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python" width="75" alt="Python" />
 
 <br><br>
 
@@ -481,14 +388,20 @@ Esta experiencia me ha permitido acercarme a conceptos relacionados con:
 
 Proyecto educativo de <b>código abierto</b> creado para aprender y compartir conocimientos fundamentales de Python.
 
+<br><br>
+
 El repositorio reúne ejercicios, conceptos y material de aprendizaje para personas que están comenzando a programar o desean reforzar sus fundamentos.
+
+<br><br>
 
 La intención es mantener un espacio abierto donde otras personas puedan <b>aprender, practicar, consultar el código y continuar construyendo sobre lo aprendido</b>.
 
 <br><br>
 
 <a href="https://github.com/jainerchocue/aprendiendo_python">
+
 <img src="https://img.shields.io/badge/Explorar%20repositorio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar aprendiendo_python" />
+
 </a>
 
 </td>
@@ -503,11 +416,11 @@ La intención es mantener un espacio abierto donde otras personas puedan <b>apre
 
 <td width="25%" align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/blender.svg" width="72" alt="Blender" />
+<img src="https://skillicons.dev/icons?i=blender" width="75" alt="Blender" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OPENAI%20BUILD%20WEEK-2563EB?style=for-the-badge" alt="OpenAI Build Week" />
+<img src="https://img.shields.io/badge/OPENAI%20BUILD%20WEEK-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Build Week" />
 
 </td>
 
@@ -517,7 +430,11 @@ La intención es mantener un espacio abierto donde otras personas puedan <b>apre
 
 Proyecto experimental desarrollado durante la <b>OpenAI Build Week</b>, organizada a través de Devpost.
 
+<br><br>
+
 Helio Architect explora la integración de agentes de Inteligencia Artificial con <b>Blender</b> para asistir en determinadas tareas relacionadas con el diseño arquitectónico mediante interacción en lenguaje natural.
+
+<br><br>
 
 El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, por lo que todavía presenta limitaciones y aspectos en proceso de mejora.
 
@@ -533,7 +450,7 @@ El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, 
 
 <td width="25%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=334155&height=145&text=PRIVATE&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Proyectos privados" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=334155&height=130&text=PRIVATE&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Proyectos privados" />
 
 <br><br>
 
@@ -546,6 +463,8 @@ El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, 
 <h2>Proyectos privados</h2>
 
 También participo en proyectos relacionados con desarrollo y producción que actualmente permanecen privados por motivos de <b>confidencialidad</b>.
+
+<br><br>
 
 Por esta razón, no publico información, código ni detalles técnicos de estos proyectos.
 
@@ -572,7 +491,7 @@ Por esta razón, no publico información, código ni detalles técnicos de estos
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=FILOSOF%C3%8DA%20DE%20APRENDIZAJE&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Filosofía de aprendizaje" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=FILOSOF%C3%8DA%20DE%20APRENDIZAJE&fontSize=23&fontColor=ffffff&animation=fadeIn" alt="Filosofía de aprendizaje" />
 
 <br><br>
 
@@ -581,7 +500,7 @@ Por esta razón, no publico información, código ni detalles técnicos de estos
 
 <td width="33%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=85&text=APRENDER&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Aprender" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=90&text=APRENDER&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Aprender" />
 
 <br><br>
 
@@ -591,7 +510,7 @@ Explorar nuevas tecnologías y comprender cómo funcionan.
 
 <td width="33%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=85&text=CONSTRUIR&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Construir" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=90&text=CONSTRUIR&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Construir" />
 
 <br><br>
 
@@ -601,7 +520,7 @@ Convertir el conocimiento en proyectos y soluciones reales.
 
 <td width="33%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=60A5FA&height=85&text=COMPARTIR&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Compartir" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=60A5FA&height=90&text=COMPARTIR&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Compartir" />
 
 <br><br>
 
@@ -614,7 +533,7 @@ Compartir lo aprendido para que otras personas también puedan avanzar.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=El+aprendizaje+tecnol%C3%B3gico+no+tiene+que+ser+un+proceso+cerrado.;Aprender+%7C+Construir+%7C+Compartir" alt="Filosofía de aprendizaje animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=El+aprendizaje+tecnol%C3%B3gico+no+tiene+que+ser+un+proceso+cerrado.;Aprender+%7C+Construir+%7C+Compartir" alt="Filosofía de aprendizaje animada" />
 
 <br><br>
 
@@ -638,7 +557,7 @@ La evolución de la Inteligencia Artificial está transformando rápidamente la 
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=C%C3%B3digo+%7C+Aprendizaje+%7C+Experimentaci%C3%B3n" alt="Actividad de GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=C%C3%B3digo+%7C+Aprendizaje+%7C+Experimentaci%C3%B3n" alt="Actividad de GitHub" />
 
 <br><br>
 
@@ -664,6 +583,8 @@ La evolución de la Inteligencia Artificial está transformando rápidamente la 
 <td width="65%" valign="middle">
 
 Si deseas colaborar en proyectos de <b>software, Inteligencia Artificial, automatización o divulgación tecnológica</b>, puedes encontrarme en mis principales plataformas.
+
+<br><br>
 
 También estoy interesado en conocer nuevos proyectos, oportunidades y personas con las que pueda <b>aprender, colaborar y construir soluciones tecnológicas</b>.
 
@@ -702,7 +623,7 @@ También estoy interesado en conocer nuevos proyectos, oportunidades y personas 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=700" alt="Separador" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Aprender+%7C+Construir+%7C+Compartir;Siempre+explorando+lo+que+viene" alt="Mensaje final" />
 
 <br><br>
 
