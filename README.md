@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=200&section=header&text=Jainer%20Yohany%20Chocue%20Viluche&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20%7C%20Python%20%7C%20AI%20Automation&descAlignY=58&descSize=18" alt="Banner animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=210&section=header&text=Jainer%20Yohany%20Chocue%20Viluche&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Systems%20Engineering%20%7C%20Python%20%7C%20AI%20Automation&descAlignY=58&descSize=18" alt="Jainer Yohany Chocue Viluche" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%7C+Automatizaci%C3%B3n+con+IA;Explorando+nuevas+formas+de+desarrollar;Creador+de+%40lavoztech" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Python+%7C+Inteligencia+Artificial+%7C+Automatizaci%C3%B3n;Explorando+nuevas+formas+de+desarrollar+software;Creador+de+%40lavoztech" alt="Especialidades animadas" />
 
 <br><br>
 
@@ -15,27 +15,27 @@
 </a>
 
 <a href="https://www.tiktok.com/@lavoztech">
-<img src="https://img.shields.io/badge/TikTok-@lavoztech-2563EB?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok - La Voz Tech" />
+<img src="https://img.shields.io/badge/TikTok-@lavoztech-2563EB?style=for-the-badge&logo=tiktok&logoColor=white" alt="La Voz Tech" />
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&width=700" alt="Separador" />
 
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!-- SOBRE MI -->
-<!-- ====================================================== -->
+---
 
-<table>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=SOBRE%20M%C3%8D&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Sobre mí" />
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
 
 <td width="68%" valign="middle">
-
-<h2>Sobre mí</h2>
 
 Soy <b>Jainer Yohany Chocue Viluche</b>, estudiante de <b>9.º semestre de Ingeniería de Sistemas</b> en la <b>Corporación Universitaria Comfacauca (Unicomfacauca)</b>, en Popayán, Colombia.
 
@@ -45,19 +45,27 @@ Me interesa especialmente comprender cómo la Inteligencia Artificial está tran
 
 Combino mi formación académica con proyectos personales, experimentación tecnológica y aprendizaje autodidacta.
 
-Mi forma de aprender se resume en:
+Una parte importante de este proceso consiste en:
 
-<br>
+<br><br>
 
-<b>Aprender → Construir → Compartir</b>
+<div align="center">
+
+<img src="https://img.shields.io/badge/APRENDER-2563EB?style=for-the-badge" alt="Aprender" />
+
+<img src="https://img.shields.io/badge/CONSTRUIR-3B82F6?style=for-the-badge" alt="Construir" />
+
+<img src="https://img.shields.io/badge/COMPARTIR-60A5FA?style=for-the-badge" alt="Compartir" />
+
+</div>
 
 </td>
 
 <td width="32%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=190&text=9.%C2%BA%20SEMESTRE&fontSize=27&fontColor=ffffff&animation=fadeIn" alt="Noveno semestre" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=190&text=9.%C2%BA%20SEMESTRE&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Noveno semestre" />
 
-<br>
+<br><br>
 
 <b>Ingeniería de Sistemas</b>
 
@@ -76,43 +84,107 @@ Popayán · Colombia
 
 <br>
 
-<!-- ====================================================== -->
-<!-- LA VOZ TECH -->
-<!-- ====================================================== -->
+---
 
-<table>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=FORMACI%C3%93N%20Y%20ENFOQUE&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Formación y enfoque" />
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="58" height="58" alt="Python" />
+
+<br><br>
+
+<b>Python</b>
+
+<br><br>
+
+Desarrollo de software, automatización, aprendizaje y experimentación.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="58" height="58" alt="OpenAI" />
+
+<br><br>
+
+<b>Inteligencia Artificial</b>
+
+<br><br>
+
+Uso práctico de modelos y herramientas de IA para desarrollar y experimentar.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="58" height="58" alt="GitHub" />
+
+<br><br>
+
+<b>Open Source</b>
+
+<br><br>
+
+Publicación, documentación y aprendizaje mediante código abierto.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=LA%20VOZ%20TECH&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="La Voz Tech" />
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
 
 <td width="30%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=170&text=LA%20VOZ%20TECH&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="La Voz Tech" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/tiktok/2563EB" width="55" alt="TikTok" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tiktok.svg" width="70" height="70" alt="TikTok" />
 
 <br><br>
 
 <b>@lavoztech</b>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=260&lines=Python;Tecnolog%C3%ADa;Inteligencia+Artificial" alt="Temas de La Voz Tech" />
+
 </td>
 
 <td width="70%" valign="middle">
-
-<h2>Comunidad y presencia digital</h2>
 
 <b>La Voz Tech</b> es mi espacio de divulgación tecnológica en TikTok.
 
 El contenido está enfocado principalmente en:
 
 <ul>
-<li>Fundamentos y aprendizaje de Python.</li>
+<li>Fundamentos y conceptos de Python.</li>
 <li>Noticias y novedades relacionadas con Inteligencia Artificial.</li>
-<li>Conceptos de programación y desarrollo de software.</li>
-<li>Recursos y explicaciones accesibles para personas que están aprendiendo.</li>
+<li>Programación y desarrollo de software.</li>
+<li>Recursos y conocimientos para personas que están aprendiendo.</li>
 </ul>
 
-El objetivo es contribuir a una comunidad donde el conocimiento pueda <b>compartirse de manera abierta y accesible</b>.
+La idea es contribuir a una comunidad donde el conocimiento pueda <b>compartirse de manera abierta y accesible</b>.
 
 </td>
 
@@ -121,130 +193,151 @@ El objetivo es contribuir a una comunidad donde el conocimiento pueda <b>compart
 
 <br>
 
-<!-- ====================================================== -->
-<!-- TECNOLOGIAS -->
-<!-- ====================================================== -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=70&text=TECNOLOG%C3%8DAS%20%26%20COMPETENCIAS&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Tecnologías y competencias" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=TECNOLOG%C3%8DAS%20Y%20COMPETENCIAS&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Tecnologías y competencias" />
 
 </div>
 
 <br>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td align="center" width="16%">
+<td colspan="3" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" alt="Python" />
-
-<br><br>
-
-<b>Python</b>
-
-</td>
-
-<td align="center" width="16%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
+<b>DESARROLLO Y SOFTWARE</b>
 
 <br><br>
 
-<b>MySQL</b>
-
-</td>
-
-<td align="center" width="16%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub" />
-
-<br><br>
-
-<b>GitHub</b>
-
-</td>
-
-<td align="center" width="16%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" alt="Python" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/mysql.svg" width="48" alt="MySQL" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" alt="GitHub" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg" width="48" alt="Docker" />
 
 <br><br>
 
-<b>Docker</b>
+<b>Python</b> · <b>MySQL</b> · <b>GitHub</b> · <b>Docker</b>
 
 </td>
 
-<td align="center" width="16%">
+</tr>
 
-<img src="https://cdn.simpleicons.org/vercel/2563EB" width="55" alt="Vercel" />
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" width="48" alt="Vercel" />
 
 <br><br>
 
 <b>Vercel</b>
 
+<br><br>
+
+Despliegue de aplicaciones y proyectos web.
+
 </td>
 
-<td align="center" width="16%">
+<td width="33%" align="center">
 
-<img src="https://cdn.simpleicons.org/render/2563EB" width="55" alt="Render" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/render.svg" width="48" alt="Render" />
 
 <br><br>
 
 <b>Render</b>
 
+<br><br>
+
+Despliegue y ejecución de aplicaciones y servicios.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" alt="GitHub" />
+
+<br><br>
+
+<b>GitHub</b>
+
+<br><br>
+
+Control de versiones, colaboración y código abierto.
+
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+<b>INTELIGENCIA ARTIFICIAL Y AUTOMATIZACIÓN</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge" alt="AI Agents" />
 <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=for-the-badge" alt="AI Automation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=for-the-badge" alt="AI Automation" />
-<img src="https://img.shields.io/badge/OpenAI%20API-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/MVC-334155?style=for-the-badge" alt="MVC" />
-<img src="https://img.shields.io/badge/DevOps-60A5FA?style=for-the-badge" alt="DevOps" />
+<img src="https://img.shields.io/badge/OpenAI%20API-2563EB?style=for-the-badge" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/OpenCode-334155?style=for-the-badge" alt="OpenCode" />
+<img src="https://img.shields.io/badge/Fine--Tuning-60A5FA?style=for-the-badge" alt="Fine-Tuning" />
 
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!-- IA -->
-<!-- ====================================================== -->
+---
 
-<table>
-<tr>
+<div align="center">
 
-<td width="32%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=190&text=AI%20%26%20LLMs&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Inteligencia Artificial" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=INTELIGENCIA%20ARTIFICIAL&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Inteligencia Artificial" />
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/openai/2563EB" width="58" alt="OpenAI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Explorar+%7C+Comparar+%7C+Experimentar+%7C+Aprender" alt="Explorar comparar experimentar aprender" />
 
-</td>
+</div>
 
-<td width="68%" valign="middle">
+<br>
 
-<h2>Inteligencia Artificial</h2>
+<table width="100%">
+<tr>
+
+<td width="65%" valign="middle">
 
 He explorado diferentes modelos y herramientas de Inteligencia Artificial para comprender sus <b>capacidades, limitaciones y aplicaciones prácticas</b> en el desarrollo de software.
 
-Mi interés está enfocado en utilizar la IA como una herramienta para <b>desarrollar, automatizar, experimentar y aprender</b>, manteniendo siempre la comprensión del problema y del software que se está construyendo.
+Mi objetivo no es únicamente utilizar modelos, sino aprender a evaluar sus capacidades y encontrar aplicaciones prácticas para el desarrollo y la automatización.
 
-No busco solamente utilizar modelos: también me interesa comprender cómo pueden integrarse, evaluarse y adaptarse para diferentes necesidades.
+La IA se ha convertido en una parte importante de mi proceso de aprendizaje y experimentación tecnológica.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="72" alt="OpenAI" />
+
+<br><br>
+
+<b>AI-assisted development</b>
+
+<br><br>
+
+Experimentación · Desarrollo · Automatización
 
 </td>
 
@@ -252,10 +345,6 @@ No busco solamente utilizar modelos: también me interesa comprender cómo puede
 </table>
 
 <br>
-
-<!-- ====================================================== -->
-<!-- MODELOS -->
-<!-- ====================================================== -->
 
 <div align="center">
 
@@ -263,27 +352,31 @@ No busco solamente utilizar modelos: también me interesa comprender cómo puede
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/openai/2563EB" width="42" alt="OpenAI" />
-<br><b>OpenAI</b>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="42" alt="OpenAI" />
+<br><br>
+<b>OpenAI</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/google/2563EB" width="42" alt="Google" />
-<br><b>Gemini</b>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/google.svg" width="42" alt="Google" />
+<br><br>
+<b>Gemini</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/anthropic/2563EB" width="42" alt="Anthropic" />
-<br><b>Claude</b>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" width="42" alt="Anthropic" />
+<br><br>
+<b>Claude</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/qwen/2563EB" width="42" alt="Qwen" />
-<br><b>Qwen</b>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/qwen.svg" width="42" alt="Qwen" />
+<br><br>
+<b>Qwen</b>
 </td>
 
 </tr>
@@ -313,26 +406,30 @@ No busco solamente utilizar modelos: también me interesa comprender cómo puede
 </tr>
 </table>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Explorar+%7C+Comparar+%7C+Experimentar+%7C+Aprender" alt="Exploración de modelos" />
-
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!-- FINE TUNING -->
-<!-- ====================================================== -->
+---
 
-<table>
+<table width="100%">
 <tr>
+
+<td width="32%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=180&text=OPEN%20MODELS&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Open Models" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FINE--TUNING-2563EB?style=for-the-badge" alt="Fine-Tuning" />
+
+</td>
 
 <td width="68%" valign="middle">
 
-<h3>Modelos abiertos y experimentación</h3>
+<h2>Experimentación con modelos abiertos</h2>
 
-También he participado en procesos de <b>experimentación con modelos de código abierto</b>, trabajando junto con herramientas de Inteligencia Artificial en la preparación de un modelo orientado a posteriores procesos de <b>fine-tuning</b>.
+También he participado en procesos de experimentación con <b>modelos de código abierto</b>, trabajando junto con herramientas de Inteligencia Artificial en la preparación de un modelo orientado a posteriores procesos de <b>fine-tuning</b>.
 
 Esta experiencia me ha permitido acercarme a conceptos relacionados con:
 
@@ -340,29 +437,13 @@ Esta experiencia me ha permitido acercarme a conceptos relacionados con:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open%20Models-2563EB?style=for-the-badge" alt="Open Models" />
-<img src="https://img.shields.io/badge/Fine--Tuning-2563EB?style=for-the-badge" alt="Fine-Tuning" />
+<img src="https://img.shields.io/badge/Preparaci%C3%B3n%20de%20datos-2563EB?style=for-the-badge" alt="Preparación de datos" />
 
-<br>
+<img src="https://img.shields.io/badge/Modelos%20abiertos-2563EB?style=for-the-badge" alt="Modelos abiertos" />
 
-<img src="https://img.shields.io/badge/Data%20Preparation-2563EB?style=for-the-badge" alt="Data Preparation" />
-<img src="https://img.shields.io/badge/Model%20Evaluation-2563EB?style=for-the-badge" alt="Model Evaluation" />
+<img src="https://img.shields.io/badge/Fine--Tuning-60A5FA?style=for-the-badge" alt="Fine-Tuning" />
 
 </div>
-
-</td>
-
-<td width="32%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:60A5FA,100:2563EB&height=190&text=OPEN%20MODEL&fontSize=26&fontColor=ffffff&animation=fadeIn" alt="Modelo abierto" />
-
-<br><br>
-
-<b>Fine-tuning</b>
-
-<br>
-
-Adaptación de modelos para tareas específicas.
 
 </td>
 
@@ -371,30 +452,22 @@ Adaptación de modelos para tareas específicas.
 
 <br>
 
-<!-- ====================================================== -->
-<!-- PROYECTOS -->
-<!-- ====================================================== -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=70&text=PROYECTOS%20%26%20EXPERIMENTACI%C3%93N&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Proyectos y experimentación" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=PROYECTOS%20Y%20EXPERIMENTACI%C3%93N&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Proyectos y experimentación" />
 
 </div>
 
 <br>
 
-<!-- APRENDIENDO PYTHON -->
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" alt="Python" />
-
-<br><br>
-
-<b>aprendiendo_python</b>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="72" alt="Python" />
 
 <br><br>
 
@@ -404,7 +477,7 @@ Adaptación de modelos para tareas específicas.
 
 <td width="75%" valign="middle">
 
-<h3>aprendiendo_python</h3>
+<h2>aprendiendo_python</h2>
 
 Proyecto educativo de <b>código abierto</b> creado para aprender y compartir conocimientos fundamentales de Python.
 
@@ -425,32 +498,26 @@ La intención es mantener un espacio abierto donde otras personas puedan <b>apre
 
 <br>
 
-<!-- HELIO -->
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" align="center">
 
-<img src="https://cdn.simpleicons.org/blender/2563EB" width="75" alt="Blender" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/blender.svg" width="72" alt="Blender" />
 
 <br><br>
 
-<b>Helio Architect</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OpenAI%20Build%20Week-2563EB?style=for-the-badge" alt="OpenAI Build Week" />
+<img src="https://img.shields.io/badge/OPENAI%20BUILD%20WEEK-2563EB?style=for-the-badge" alt="OpenAI Build Week" />
 
 </td>
 
 <td width="75%" valign="middle">
 
-<h3>Helio Architect</h3>
+<h2>Helio Architect</h2>
 
 Proyecto experimental desarrollado durante la <b>OpenAI Build Week</b>, organizada a través de Devpost.
 
-Helio Architect explora la integración de agentes de Inteligencia Artificial con <b>Blender</b> para asistir en procesos de diseño arquitectónico mediante interacción en lenguaje natural.
+Helio Architect explora la integración de agentes de Inteligencia Artificial con <b>Blender</b> para asistir en determinadas tareas relacionadas con el diseño arquitectónico mediante interacción en lenguaje natural.
 
 El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, por lo que todavía presenta limitaciones y aspectos en proceso de mejora.
 
@@ -461,14 +528,12 @@ El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, 
 
 <br>
 
-<!-- PROYECTOS PRIVADOS -->
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=334155&height=150&text=PRIVATE&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Proyectos privados" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=334155&height=145&text=PRIVATE&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Proyectos privados" />
 
 <br><br>
 
@@ -478,11 +543,11 @@ El proyecto se encuentra en una etapa inicial de desarrollo y experimentación, 
 
 <td width="75%" valign="middle">
 
-<h3>Proyectos privados</h3>
+<h2>Proyectos privados</h2>
 
-También he participado en proyectos de desarrollo y producción que permanecen privados por motivos de <b>confidencialidad</b>.
+También participo en proyectos relacionados con desarrollo y producción que actualmente permanecen privados por motivos de <b>confidencialidad</b>.
 
-No publico información sobre estos proyectos, pero forman parte de mi experiencia práctica trabajando con software y tecnologías actuales.
+Por esta razón, no publico información, código ni detalles técnicos de estos proyectos.
 
 </td>
 
@@ -494,29 +559,29 @@ No publico información sobre estos proyectos, pero forman parte de mi experienc
 <div align="center">
 
 <a href="https://github.com/jainerchocue?tab=repositories">
-<img src="https://img.shields.io/badge/Explorar%20todos%20mis%20repositorios-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Todos mis repositorios" />
+
+<img src="https://img.shields.io/badge/Explorar%20mis%20repositorios-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios" />
+
 </a>
 
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!-- FILOSOFIA -->
-<!-- ====================================================== -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=70&text=FILOSOF%C3%8DA%20DE%20APRENDIZAJE&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Filosofía de aprendizaje" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=FILOSOF%C3%8DA%20DE%20APRENDIZAJE&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Filosofía de aprendizaje" />
 
 <br><br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=90&text=APRENDER&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Aprender" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=85&text=APRENDER&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Aprender" />
 
 <br><br>
 
@@ -524,9 +589,9 @@ Explorar nuevas tecnologías y comprender cómo funcionan.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=90&text=CONSTRUIR&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Construir" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=85&text=CONSTRUIR&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Construir" />
 
 <br><br>
 
@@ -534,9 +599,9 @@ Convertir el conocimiento en proyectos y soluciones reales.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=60A5FA&height=90&text=COMPARTIR&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Compartir" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=60A5FA&height=85&text=COMPARTIR&fontSize=21&fontColor=ffffff&animation=fadeIn" alt="Compartir" />
 
 <br><br>
 
@@ -549,15 +614,15 @@ Compartir lo aprendido para que otras personas también puedan avanzar.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=El+aprendizaje+tecnol%C3%B3gico+no+tiene+que+ser+un+proceso+cerrado.;Aprender+%7C+Construir+%7C+Compartir" alt="Filosofía de aprendizaje" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=El+aprendizaje+tecnol%C3%B3gico+no+tiene+que+ser+un+proceso+cerrado.;Aprender+%7C+Construir+%7C+Compartir" alt="Filosofía de aprendizaje animada" />
 
 <br><br>
 
-<p align="center" width="750">
+<p>
 
-Considero que el aprendizaje tecnológico no debería ser un proceso cerrado. La evolución de la Inteligencia Artificial está transformando rápidamente la forma en que trabajamos y desarrollamos software.
+Considero que el aprendizaje tecnológico no debería ser un proceso cerrado.
 
-Por eso considero fundamental mantener una actitud de <b>adaptación, aprendizaje continuo y experimentación responsable</b>.
+La evolución de la Inteligencia Artificial está transformando rápidamente la forma en que trabajamos y desarrollamos software. Por eso considero fundamental mantener una actitud de <b>adaptación, aprendizaje continuo y experimentación responsable</b>.
 
 </p>
 
@@ -565,9 +630,7 @@ Por eso considero fundamental mantener una actitud de <b>adaptación, aprendizaj
 
 <br>
 
-<!-- ====================================================== -->
-<!-- GITHUB -->
-<!-- ====================================================== -->
+---
 
 <div align="center">
 
@@ -575,22 +638,30 @@ Por eso considero fundamental mantener una actitud de <b>adaptación, aprendizaj
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/jainerchocue/jainerchocue/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones de GitHub" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=C%C3%B3digo+%7C+Aprendizaje+%7C+Experimentaci%C3%B3n" alt="Actividad de GitHub" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/jainerchocue/jainerchocue/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" width="100%" />
 
 </div>
 
 <br>
 
-<!-- ====================================================== -->
-<!-- CONECTEMOS -->
-<!-- ====================================================== -->
+---
 
-<table>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=65&text=CON%C3%89CTEMOS&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Conectemos" />
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
 
 <td width="65%" valign="middle">
-
-<h2>Conectemos</h2>
 
 Si deseas colaborar en proyectos de <b>software, Inteligencia Artificial, automatización o divulgación tecnológica</b>, puedes encontrarme en mis principales plataformas.
 
@@ -601,19 +672,25 @@ También estoy interesado en conocer nuevos proyectos, oportunidades y personas 
 <td width="35%" align="center">
 
 <a href="https://github.com/jainerchocue">
+
 <img src="https://img.shields.io/badge/GitHub-jainerchocue-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/jainer-johany-chocue-viluche-710b54267">
+
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
 </a>
 
 <br><br>
 
 <a href="https://www.tiktok.com/@lavoztech">
+
 <img src="https://img.shields.io/badge/La%20Voz%20Tech-@lavoztech-2563EB?style=for-the-badge&logo=tiktok&logoColor=white" alt="La Voz Tech" />
+
 </a>
 
 </td>
@@ -633,6 +710,6 @@ También estoy interesado en conocer nuevos proyectos, oportunidades y personas 
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=100&section=footer" alt="Footer animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=100&section=footer" alt="Footer" />
 
 </div>
