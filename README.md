@@ -548,9 +548,9 @@ El repositorio reúne ejercicios, conceptos y material de aprendizaje pensado pr
 > La intención es que otras personas puedan consultar, practicar, modificar el código y continuar construyendo sobre lo aprendido.
 
 ---
----
 
 # Mi primera librería de Python
+
 
 <div align="center">
 
@@ -574,6 +574,7 @@ El repositorio reúne ejercicios, conceptos y material de aprendizaje pensado pr
 
 </div>
 
+
 `mensaje-ai` es mi **primera librería de Python publicada en PyPI**.
 
 Nació inspirada en `import this`, pero con un mensaje propio sobre una idea que considero importante:
@@ -586,6 +587,8 @@ La librería busca representar una forma de aprender y construir tecnología uti
 
 `bash`
 pip install mensaje-ai
+
+---
 
 # La Voz Tech
 
