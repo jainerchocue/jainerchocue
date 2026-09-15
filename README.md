@@ -548,6 +548,44 @@ El repositorio reúne ejercicios, conceptos y material de aprendizaje pensado pr
 > La intención es que otras personas puedan consultar, practicar, modificar el código y continuar construyendo sobre lo aprendido.
 
 ---
+---
+
+# Mi primera librería de Python
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=6500&pause=4000&color=2563EB&center=true&vCenter=true&width=750&height=35&lines=MI+PRIMERA+LIBRER%C3%8DA+PUBLICADA+EN+PYPI" alt="Primera librería"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://pypi.org/project/mensaje-ai/">
+<img src="https://img.shields.io/pypi/v/mensaje-ai?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/>
+</a>
+
+<a href="https://pypi.org/project/mensaje-ai/">
+<img src="https://img.shields.io/pypi/pyversions/mensaje-ai?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+
+<a href="https://github.com/jainerchocue">
+<img src="https://img.shields.io/badge/Open%20Source-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+</a>
+
+</div>
+
+`mensaje-ai` es mi **primera librería de Python publicada en PyPI**.
+
+Nació inspirada en `import this`, pero con un mensaje propio sobre una idea que considero importante:
+
+> **La Inteligencia Artificial puede ampliar nuestras capacidades, pero no reemplaza el criterio, la práctica ni la comprensión.**
+
+La librería busca representar una forma de aprender y construir tecnología utilizando la IA como herramienta, manteniendo siempre los fundamentos de programación y los principios de la Ingeniería de Software.
+
+### Instalación
+
+`bash`
+pip install mensaje-ai
 
 # La Voz Tech
 
