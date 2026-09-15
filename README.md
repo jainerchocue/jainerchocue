@@ -850,7 +850,7 @@ También me interesa conectar con organizaciones y equipos que estén explorando
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://www.linkedin.com/in/jainer-johany-chocue-viluche-710b54267">
 
@@ -858,11 +858,27 @@ También me interesa conectar con organizaciones y equipos que estén explorando
 
 </a>
 
-&nbsp;
+ 
+
+<a href="https://www.facebook.com/profile.php?id=61592892039511&locale=es_LA">
+
+<img src="https://img.shields.io/badge/Facebook-Jainer%20Dev.py-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+
+</a>
+
+ 
 
 <a href="https://www.tiktok.com/@lavoztech">
 
 <img src="https://img.shields.io/badge/TikTok-@lavoztech-111827?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+
+</a>
+
+ 
+
+<a href="https://x.com/lavoztech">
+
+<img src="https://img.shields.io/badge/X-@lavoztech-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 
 </a>
 
